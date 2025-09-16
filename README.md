@@ -1,2 +1,3 @@
 # regular_monitoring_network
 regular_monitoring_network
+这个脚本会在每天的0点创建一个新的日志文件，然后在新的日志文件中记录网络流量数据。脚本将继续在新的一天生成新的日志文件。
